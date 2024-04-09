@@ -1,0 +1,5 @@
+requests
+folium
+matplotlib
+pandas
+google-cloud-bigquery
